@@ -1,4 +1,4 @@
-<h1 align="center">Registro de Hábitos Diários</h1>
+<h1 align="center">API REST utilizando o MongoDB Atlas</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,10 +8,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="nlw-habits" src=".github/nlw-habits.png" width="65%">
-</p>
 
 ## 🚀 Tecnologias
 
